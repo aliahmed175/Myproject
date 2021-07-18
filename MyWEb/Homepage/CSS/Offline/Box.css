@@ -1,0 +1,86 @@
+.secound-box {
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 150px;
+    margin-top: 40px;
+}
+
+.header {
+    background-position: cover;
+    height: 10px;
+    background-color: rgb(14, 11, 7);
+}
+.header1 {
+    background-color: #d35400;
+    height: 54px;
+    word-spacing: 3px;
+    float: top;
+}
+.row-first {
+    border: 2px solid #6b330b;
+    width: 93%;
+    margin-left: 30px;
+    margin-right: 4px;
+    border-radius: 20px;
+    margin-top: 110px;
+}
+
+.help{
+  background-image: url('For-css-pictures/1.jpg');
+  background-size: 80%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  width: 100%;
+  float: left;
+  margin-top: 20px;
+  background-attachment: fixed;
+  margin-left: auto;
+  margin-right: auto;
+  background-position: center;
+  text-align: center;
+}
+.family-box {
+    width: 100%;
+}
+.first-section{ 
+overflow-x: hidden;
+float: left;
+display: block;
+}
+
+.houses div{
+    color: #e67e22;
+    font-size: 50px;
+    height: 54px;
+    width: 54px;
+    border: 2px solid #e67e22;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+  
+}
+.houses {
+    display: inline-table;
+    text-align: left;
+    width: 1300px;
+    margin-top: 0px;
+}
+.thelastone {
+    float: left;
+    margin-top: 85px;
+    margin-left: 35px;
+}
+
+.onethelastone {
+    float: left;
+    margin-top: 45px;
+    margin-left: 35px;
+}
+.twothelastone {
+    float: left;
+    margin-top: 75px;
+    margin-left: 35px;
+}

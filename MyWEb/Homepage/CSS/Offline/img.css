@@ -1,0 +1,33 @@
+.header1 img{
+    float: left;
+    width: 65px;
+    height: 54px;
+}
+.accountphoto img {
+    float: right;   
+}
+.family-photos {
+    list-style: none;
+    width: 100%;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.family-photos li {
+    width: 25%;
+    display: inline;
+    float: left;
+}
+.first-figure {
+    width: 100%;
+    margin: 0px;
+    overflow: hidden;
+}
+.first-figure img {
+    width: 100%;
+    height: auto;
+    transform: scale(1.15);
+    transition: transform 0.5s;
+}
+.first-figure img:hover {
+    transform: scale(1.00);
+}

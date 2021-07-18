@@ -1,0 +1,71 @@
+
+.main-ul {
+    float: right;
+    list-style: none;
+    margin-right: 10px;
+    
+}
+.main-ul li {
+    display: inline-block;
+    background-color: #d35400;
+}
+.main-ul li a {
+    font-family: cursive;
+    text-decoration: solid; 
+    color: black;
+    border-bottom: 2px solid transparent;
+}
+
+
+.Open {
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: 25px;
+    color: rgb(78, 5, 36);
+    margin-left: 10px;
+}
+.ion-arrow-move {
+    font-size: 200%;
+    color: rgb(21, 143, 27);
+}
+.box {
+    margin-bottom: 0px;
+    border: 2px solid springgreen;
+    width: 30px;
+}
+
+.TestA {
+    border: 3px solid #6b330b;
+    width: px;
+    margin-left: 3px;
+}
+.trial {
+    padding-left: 10px;
+}
+p { 
+    font-size: xx-large;
+    float: left;
+    margin-top: 0%;
+}
+
+.paraghraph {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 80%;
+    color: rgb(91, 156, 16);
+}
+h1 {
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 90%;
+    color: #6b330b;
+}
+.close {
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: 25px;
+    color: rgb(78, 5, 36);
+    margin-left: 10px;
+}

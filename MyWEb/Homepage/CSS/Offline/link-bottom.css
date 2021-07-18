@@ -1,0 +1,28 @@
+.main-ul li a:link,
+.main-ul li a:visited {
+    border-bottom: 2px solid transparent;
+}
+.main-ul li a:hover,
+.main-ul li a:active {
+    border-bottom: 2px solid rgb(0, 0, 0);
+    transition: border-bottom 0.2s;
+}
+
+.test a:link,
+.test a:visited {
+    font-size: 20PX;
+    border: 2px solid rgb(93, 13, 104);
+    margin-left: 2PX;
+    padding: 1px;
+    word-spacing: 4PX;
+    display: inline-block;
+    border-radius: 8px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+}
+.test a:hover,
+.test a:active {
+    background-color: rgb(93, 13, 104) ;
+    color: white;
+}
